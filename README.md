@@ -36,4 +36,6 @@
      </div>
      <hr>
      <img src ="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fkthfvk112&&show_icons=true&theme=dark"></src>
+     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=fkthfvk112&layout=compact"> </src>
+    
   </div>
