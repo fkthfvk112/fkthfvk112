@@ -40,6 +40,6 @@
       </div>
   </div>
   <hr>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkthfvk112)](https://github.com/anuraghazra/github-readme-stats)
+  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fkthfvk112&&show_icons=true&theme=dark
 
 </body>
