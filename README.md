@@ -6,7 +6,7 @@
   <p>Now I'am preparing a web project using Node.js + mongoDB + React.</p>
   <p>And I'am in 4th grade in university. searching for a job.</p>
 </head>
-</hr>
+<hr>
 <body>
   <div align="center">
     <div>
