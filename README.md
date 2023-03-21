@@ -12,8 +12,9 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp
   </div>
+  </
     <div>
-      <h5> used at least once or more <h5>
+      <h3> used at least once or more <h3>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
