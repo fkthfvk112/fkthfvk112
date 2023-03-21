@@ -2,11 +2,11 @@
 
 <head>
   <h3> Hi there 🖐</h3>
-  <li>
-    <ul>Bonjour! I'm Jinseong. major in computer science/french. If you want to contact me, please send me an email to the address below.</ul>
-    <ul>Now I'am preparing a web project using Node.js + mongoDB + React.</ul>
-    <ul>And I'am in 4th grade in university. searching for a job.</ul>
-  <li>
+  <ul>
+    <li>Bonjour! I'm Jinseong. major in computer science/french. If you want to contact me, please send me an email to the address below.</li>
+    <li>Now I'am preparing a web project using Node.js + mongoDB + React.</li>
+    <li>And I'am in 4th grade in university. searching for a job.</li>
+  <ul>
 </head>
 <hr>
 <body>
