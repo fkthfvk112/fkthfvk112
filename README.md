@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ffafcc&height=420&section=header&text=Welcome%20&fontSize=85&fontColor=caf0f8&desc=Jinseong's_gitHub!&descAlign=85&animation=fadeIn)
 <div align="center">
+  <p>정진성입니다. 기본적으로 웹을 공부합니다. 이외에도 내 관심 분야가 생기면 공부합니다.</p>
   <div>
     <h5>🛠 Tech Stack 🛠<h5>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp
