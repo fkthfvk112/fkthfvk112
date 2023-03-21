@@ -2,8 +2,8 @@
 <div align="center">
   <div>
     <h5>🛠 Tech Stack 🛠<h5>
-    <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=로고이름&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=로고이름&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=로고이름&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=로고이름&logoColor=white"/></a>&nbsp
   </div>
     
   <p>Email<p>
