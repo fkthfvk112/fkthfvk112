@@ -40,6 +40,5 @@
       </div>
   </div>
   <hr>
-  ![Jinseong's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fkthfvk112&&show_icons=true&theme=dark)
-
 </body>
+  ![Jinseong'sGitHubStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fkthfvk112&&show_icons=true&theme=dark)
