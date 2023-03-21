@@ -6,7 +6,7 @@
     <li>Bonjour! I'm Jinseong. major in computer science/french. If you want to contact me, please send me an email to the address below.</li>
     <li>I'm currently working on project <a href="https://github.com/fkthfvk112/YammyPusanUniv">YammyPusanUniv</a> and DDI_WEB</li>
     <li>I log all my work in <a href="https://github.com/fkthfvk112/TIL">TIL</a></li>
-    <li>And I'm in 4th grade in university. searching for a job.</li>
+    <li>And I'm in 4th grade in Pusan National University. searching for a job.</li>
   </ul>
   <div>
     <h2> 📧 Email</h2>
