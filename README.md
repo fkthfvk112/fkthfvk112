@@ -2,7 +2,7 @@
 
 <head>
   <h3> Hi there 🖐</h3>
-  <p>Bonjour! I'm Jinseong. major in computer science/french. If you want to contact me, please send me a mail below</p>
+  <p>Bonjour! I'm Jinseong. major in computer science/french. If you want to contact me, please send me an email to the address below.</p>
   <p>Now I'am preparing a web project using Node.js + mongoDB + React.</p>
   <p>And I'am in 4th grade in university. searching for a job.</p>
 </head>
@@ -27,6 +27,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Android Studio-4479A1?style=flat&logo=Android Studio&logoColor=white"/></a>&nbsp
       </div>
     <p>Email<p>
     <p>wjdwl545@naver.com<p>
