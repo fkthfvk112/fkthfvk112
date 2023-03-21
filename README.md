@@ -2,7 +2,7 @@
 <div align="center">
   <p>정진성입니다. 기본적으로 웹을 공부합니다. 이외에도 관심 분야가 생기면 공부합니다.</p>
   <div>
-    <h5>🛠 Tech Stack 🛠<h5>
+    <h3>🛠 Tech Stack 🛠<h3>
     <p> used as the main<p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>&nbsp
@@ -17,6 +17,8 @@
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
+
     </div>
   <p>Email<p>
   <p>wjdwl545@naver.com<p>
