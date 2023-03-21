@@ -6,7 +6,11 @@
     <li>Bonjour! I'm Jinseong. major in computer science/french. If you want to contact me, please send me an email to the address below.</li>
     <li>I'm currently working on project <a href="https://github.com/fkthfvk112/YammyPusanUniv">YammyPusanUniv</a> and DDI_WEB</li>
     <li>And I'm in 4th grade in university. searching for a job.</li>
-  <ul>
+  </ul>
+  <div>
+    <h3>Email<h3>
+     <p> 📧 wjdwl545@naver.com 📧 </p>
+  </div>
 </head>
 <hr>
 <body>
@@ -33,7 +37,9 @@
         <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></a>&nbsp
       </div>
-    <p>Email<p>
-    <p>wjdwl545@naver.com<p>
+  </div>
+  <hr>
+  <div>
+    <h1>SNS
   </div>
 </body>
