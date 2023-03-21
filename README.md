@@ -24,16 +24,16 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp
     </div>
-    </
-      <div>
-        <h3> 🏫 used at least once 🏫<h3>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/></a>&nbsp
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a>&nbsp
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
-        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/></a>&nbsp
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></a>&nbsp
-      </div>
-        <img src ="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fkthfvk112&&show_icons=true&theme=dark">Jinseong's GitHub Stats</src>
+     <div>
+       <h3> 🏫 used at least once 🏫<h3>
+       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp
+       <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/></a>&nbsp
+       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
+       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a>&nbsp
+       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
+       <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/></a>&nbsp
+       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></a>&nbsp
+     </div>
+     <hr>
+     <img src ="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fkthfvk112&&show_icons=true&theme=dark">Jinseong's GitHub Stats</src>
   </div>
