@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ffafcc&height=420&section=header&text=Welcome%20&fontSize=85&fontColor=caf0f8&desc=Jinseong's_gitHub!&descAlign=85&animation=fadeIn)
-<div align="center">
   <h3> Hi there 🖐<h3>
     <p>Bonjour! I'm Jinseong. major in computer science/french</br>If you want to contact me, please send me a mail below</p>
+<div align="center">
   <div>
     <h1>🛠 Tech Stack 🛠</h1>
     <h3> 🍽 used as the main 🍽<h3>
