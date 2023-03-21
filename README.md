@@ -35,5 +35,5 @@
        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></a>&nbsp
      </div>
      <hr>
-     <img src ="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fkthfvk112&&show_icons=true&theme=dark">Jinseong's GitHub Stats</src>
+     <img src ="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fkthfvk112&&show_icons=true&theme=dark"></src>
   </div>
