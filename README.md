@@ -6,6 +6,7 @@
     <li>Bonjour! I'm Jinseong. major in computer science/french. If you want to contact me, please send me an email to the address below.</li>
     <li>Now I'am preparing a web project using Node.js + mongoDB + React.</li>
     <li>And I'am in 4th grade in university. searching for a job.</li>
+    <li>I can do everything! Just Do It!<li>
   <ul>
 </head>
 <hr>
