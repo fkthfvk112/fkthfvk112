@@ -11,7 +11,6 @@
 </head>
 
 <body>
-  <hr>
   <div align="center">
     <div>
       <h1>Tech Stack</h1>
