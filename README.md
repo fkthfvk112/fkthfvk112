@@ -8,8 +8,8 @@
     <li>And I'm in 4th grade in university. searching for a job.</li>
   </ul>
   <div>
-    <h3>Email<h3>
-     <p> 📧 wjdwl545@naver.com 📧 </p>
+    <h2> 📧 Email<h2>
+     <p>wjdwl545@naver.com</p>
   </div>
 </head>
 <hr>
