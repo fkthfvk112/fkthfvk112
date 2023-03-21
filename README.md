@@ -36,12 +36,5 @@
      </div>
      <hr>
      <img src ="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fkthfvk112&&show_icons=true&theme=dark"></src>
-     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=fkthfvk112&layout=compact"> </src>
-     <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-    
+     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=fkthfvk112&layout=compact&theme=dark"> </src>
   </div>
