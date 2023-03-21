@@ -7,11 +7,11 @@
     <li>Now I'am preparing a web project using Node.js + mongoDB + React.</li>
     <li>And I'am in 4th grade in university. searching for a job.</li>
     <li>I can do everything! Just Do It!<li>
-    
   <ul>
 </head>
-<hr>
+
 <body>
+  <hr>
   <div align="center">
     <div>
       <h1>Tech Stack</h1>
