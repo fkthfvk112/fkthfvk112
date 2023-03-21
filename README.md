@@ -4,7 +4,7 @@
   <h3> Hi there 🖐</h3>
   <ul>
     <li>Bonjour! I'm Jinseong. major in computer science/french. If you want to contact me, please send me an email to the address below.</li>
-    <li>I'm doing two web project using Node.js + mongoDB (+ React).</li>
+    <li>I'm currently working on project <a src="https://github.com/fkthfvk112/YammyPusanUniv">YammyPusanUniv</a> and DDI_WEB</li>
     <li>And I'm in 4th grade in university. searching for a job.</li>
   <ul>
 </head>
