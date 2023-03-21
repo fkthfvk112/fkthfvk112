@@ -18,7 +18,6 @@
       <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
-
     </div>
   <p>Email<p>
   <p>wjdwl545@naver.com<p>
