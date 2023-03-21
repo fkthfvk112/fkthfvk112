@@ -2,6 +2,7 @@
 <div align="center">
   <p>정진성입니다. 기본적으로 웹을 공부합니다. 이외에도 관심 분야가 생기면 공부합니다.</p>
   <div>
+    <h1>🛠 Tech Stack 🛠<h1>
     <h3> 🍽 used as the main 🍽<h3>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>&nbsp
