@@ -41,6 +41,7 @@
   </div>
   <hr>
   <div>
-    <h1>SNS
+    <img src="https://raw.githubusercontent.com/fkthfvk112/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+
   </div>
 </body>
