@@ -6,7 +6,6 @@
     <li>I'm currently complete <a href="https://github.com/fkthfvk112/YammyPusanUniv">YammyPusanUniv</a></li>
     <li> Recently I completed <a href="https://fkthfvk112.github.io/mazeGame/">maze game</a></li>
     <li>I log all my work in <a href="https://github.com/fkthfvk112/TIL">TIL</a></li>
-    <li>And I'm in 4th grade in Pusan National University. searching for a job.</li>
   </ul>
   <div>
     <h2> 📧 Email</h2>
