@@ -2,10 +2,9 @@
 
   <h3> Hi there 🖐</h3>
   <ul>
-    <li>Bonjour! I'm Jinseong. major in computer science/french. If you want to contact me, please send me an email to the address below.</li>
-    <li>I'm currently complete <a href="https://github.com/fkthfvk112/YammyPusanUniv">YammyPusanUniv</a></li>
-    <li> Recently I completed <a href="https://fkthfvk112.github.io/mazeGame/">maze game</a></li>
-    <li>I log all my work in <a href="https://github.com/fkthfvk112/TIL">TIL</a></li>
+    <li>정진성입니다. 8월 졸업 후 컴퓨터 졸업 학사 학위를 가질 예정입니다.</li>
+    <li>제일 최근 이 프로젝트를 완성하였습니다. <a href="https://github.com/fkthfvk112/YammyPusanUniv">YammyPusanUniv</a></li>
+    <li>공부한 모든 내용은 이곳에 기록합니다. <a href="https://github.com/fkthfvk112/TIL">TIL</a></li>
   </ul>
   <div>
     <h2> 📧 Email</h2>
