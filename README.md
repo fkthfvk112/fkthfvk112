@@ -27,6 +27,9 @@
 <div>
     <a href="https://github.com/fkthfvk112/YelpCamp">Yelp Camp</a>
 </div>
+<div>
+    <a href="https://github.com/fkthfvk112/jspBbsCal">일정관리 게시판</a>
+</div>
 <hr>
   <div align="center">
     <div>
