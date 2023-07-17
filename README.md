@@ -30,6 +30,12 @@
 <div>
     <a href="https://github.com/fkthfvk112/jspBbsCal">일정관리 게시판</a>
 </div>
+<div>
+    <a href="https://github.com/fkthfvk112/mazeGame">미로 게임</a>
+</div>
+<div>
+    <a href="https://github.com/fkthfvk112/randomCocktatilMaker">폭탄주 제조기</a>
+</div>
 <hr>
   <div align="center">
     <div>
