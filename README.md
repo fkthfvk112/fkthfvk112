@@ -51,7 +51,7 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
       </br>
-      <img src="https://img.shields.io/badge/springboot-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/springboot-25c235?style=flat&logo=springboot&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
       </br>
     </div>
