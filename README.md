@@ -11,6 +11,7 @@
   </hr>
   <h3> 진행중인 프로젝트</h3>
   <ul>
+    <li>최근 이 프로젝트를 진행중입니다.<a href="https://github.com/orgs/emartFresh/repositories">신선 식품 매장</a>  </li>
     <li><a href="https://github.com/fkthfvk112/vocaApp">React Native 수능 영단어장(모바일)</a></li>
   </ul>
   <div>
