@@ -3,8 +3,8 @@
   <h3> Hi there 🖐</h3>
   <ul>
     <li>정진성입니다. 8월 졸업 후 컴퓨터 졸업 학사 학위를 가질 예정입니다.</li>
-    <li>최근 이 프로젝트를 진행중입니다.<a href="https://github.com/fkthfvk112/hospital_reservation">병원 예약 시스템</a>  </li>
-    <li>최근 이 프로젝트를 완성하였습니다. <a href="https://github.com/fkthfvk112/YammyPusanUniv">YammyPusanUniv</a></li>
+    <li>최근 이 프로젝트를 진행중입니다.<a href="https://github.com/orgs/emartFresh/repositories">병원 예약 시스템</a>  </li>
+    <li>최근 이 프로젝트를 완성하였습니다. <a href="https://github.com/fkthfvk112/hospital_reservation">병원 예약 시스템</a></li>
     <li>최근 이 미니 프로젝트를 완성하였습니다. <a href="https://github.com/fkthfvk112/jspBbsCal">JSP 채용 일정 관리 사이트</a></li>
     <li>공부한 모든 내용은 이곳에 기록합니다. <a href="https://github.com/fkthfvk112/TIL">TIL</a></li>
   </ul>
