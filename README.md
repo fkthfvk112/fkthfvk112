@@ -2,8 +2,8 @@
 
   <h3> Hi there 🖐</h3>
   <ul>
-    <li>Next.js 13 프론트엔드 프로젝트를 진행중입니다. <a href="https://github.com/fkthfvk112/recipe-front">병원 예약 시스템</a></li>
-      <li>Spring boot 백엔드 프로젝트를 진행중입니다. <a href="https://github.com/fkthfvk112/recipe">병원 예약 시스템</a></li>
+    <li>Next.js 13 프론트엔드 프로젝트를 진행중입니다. <a href="https://github.com/fkthfvk112/recipe-front">Recipe 프로젝트</a></li>
+      <li>Spring boot 백엔드 프로젝트를 진행중입니다. <a href="https://github.com/fkthfvk112/recipe">Recipe 프로젝트</a></li>
     <li>공부한 모든 내용은 이곳에 기록합니다. <a href="https://github.com/fkthfvk112/TIL">TIL</a></li>
   </ul>
   </hr>
