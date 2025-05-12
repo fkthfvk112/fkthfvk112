@@ -2,8 +2,8 @@
 
   <h3> Hi there 🖐</h3>
   <ul>
-    <li>Next.js 13 프론트엔드 프로젝트를 진행중입니다. <a href="https://github.com/fkthfvk112/recipe-front">Recipe 프로젝트</a></li>
-      <li>Spring boot 백엔드 프로젝트를 진행중입니다. <a href="https://github.com/fkthfvk112/recipe">Recipe 프로젝트</a></li>
+    <li>React native expo, Ts 프론트엔드 프로젝트를 진행중입니다. <a href="https://github.com/branchOutInPl/branchOutMobileRN">목표 관리 프로젝트</a></li>
+      <li>Spring boot, Kotlin 백엔드 프로젝트를 진행중입니다. <a href="https://github.com/branchOutInPl/branchOutBack">목표 관리 프로젝트</a></li>
     <li>공부한 모든 내용은 이곳에 기록합니다. <a href="https://github.com/fkthfvk112/TIL">TIL</a></li>
   </ul>
   </hr>
@@ -17,6 +17,9 @@
   </div>
 <hr>
 <h1>웹 프로젝트 목록</h1>
+<div>
+    <a href="https://www.mug-in.com/">머그인</a>
+</div>
 <div>
     <a href="https://github.com/orgs/emartFresh/repositories">pick-fresh24</a>
 </div>
