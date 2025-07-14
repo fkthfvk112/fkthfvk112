@@ -38,6 +38,15 @@
     <a href="https://github.com/fkthfvk112/randomCocktatilMaker">폭탄주 제조기</a>
 </div>
 <hr>
+<hr>
+<h1>모바일 앱 프로젝트 목록</h1>
+<div>
+    <a href="https://github.com/branchOutInPl/branchOutBack">플래닛 플랜</a>
+</div>
+<div>
+    <a href="https://github.com/fkthfvk112/voca_en">영단어 보카</a>
+</div>
+<hr>
   <div align="center">
     <div>
       <h1>Tech Stack</h1>
